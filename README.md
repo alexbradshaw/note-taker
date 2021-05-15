@@ -25,7 +25,7 @@ What did you learn?
 ## Installation
 npm install
 ## Deployed Application
-![Heroku Deployed App](https://glacial-brushlands-66008.herokuapp.com/)
+[Heroku Deployed App](https://glacial-brushlands-66008.herokuapp.com/)
 ## Usage
 ![working_notetaker.jpg](public/assets/working_notetaker.jpg?raw=true)
 ## License
