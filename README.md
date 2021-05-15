@@ -1,7 +1,6 @@
 
 # Notes Application
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-[Deployed Application](https://glacial-brushlands-66008.herokuapp.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 What was your motivation? 
 - I wanted to be able to write and save notes
@@ -25,6 +24,8 @@ What did you learn?
 - [Questions](#questions)
 ## Installation
 npm install
+## Deployed Application
+![Heroku Deployed App](https://glacial-brushlands-66008.herokuapp.com/)
 ## Usage
 ![working_notetaker.jpg](public/assets/working_notetaker.jpg?raw=true)
 ## License
