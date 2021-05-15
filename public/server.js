@@ -69,4 +69,3 @@ app.post('/api/notes/', (req, res) => {
 
 
 app.listen(PORT, () => console.log(`App listening on PORT ${PORT}`));
-app.get('/*', (req, res) => res.sendFile(path.join(__dirname, 'index.html')));
